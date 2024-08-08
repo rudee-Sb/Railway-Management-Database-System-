@@ -49,13 +49,12 @@ The Railway Management Database System is a comprehensive solution for managing 
    DATABASE_CONFIG = {
     'user': 'your_username',
     'password': 'your_password',
-    'host': 'localhost',
-    'database': 'railway_management_db'
+    'host': 'localhost'
 }
 
 3. **Run the application:**
    ```bash
-   railway management project.py
+   Railway management project.py
 
 ## Usage
 - *Main Menu:*  The main menu provides access to ticket booking, train management, and worker management sections.
